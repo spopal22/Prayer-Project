@@ -56,7 +56,7 @@ locButton.addEventListener('click', () => {
       updateCurrentTime(timeZoneOffset);
 
       setInterval(() => {
-        // Get the time zone offset from the API response (replace with the actual API response)
+        // Get the time zone offset from the API response
         const timeZoneOffset = data.data[0].meta.timezone;
         // Update the current time with the time zone offset
         updateCurrentTime(timeZoneOffset);
