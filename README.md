@@ -25,3 +25,4 @@
 - Visually engaging UI with dynamic background transformations.
 
 ## Screenshot
+(https://github.com/spopal22/PrayerTimesAPI-Project/assets/143114700/e9bf1fbe-dabc-45d2-9243-c8af60caf949)
